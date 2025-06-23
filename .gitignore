@@ -1,2 +1,5 @@
 env_py
 data/
+corp_anserini
+index_entities
+*.zip
